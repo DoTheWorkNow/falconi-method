@@ -8,12 +8,13 @@
 
 ## 功能覆盖
 
-| 场景 | 参考文件 |
-|---|---|
-| 业务问题诊断 | `references/analysis-framework.md` |
-| 改进计划制定 | `references/improvement-execution.md` |
-| 管理咨询与组织设计 | `references/management-system.md` |
-| 稳定化与知识管理 | `references/stabilization-knowledge.md` |
+| 场景 | 参考文件 | 对应章节 |
+|---|---|---|
+| 管理体系、组织设计、目标分解、战略部署 | `references/management-system.md` | Ch1, Ch3, Ch4, Ch7 |
+| 领导力、人才发展、知识获取、激励 | `references/leadership-knowledge.md` | Ch2, Ch10 |
+| 业务问题诊断、根因分析、系统思维 | `references/analysis-framework.md` | Ch5, Ch6 |
+| 改进计划、PDCA 执行、成本/收入优化 | `references/improvement-execution.md` | Ch8 |
+| 稳定化、日常管理、SDCA、标准化 | `references/stabilization-daily.md` | Ch9, 结语 |
 
 ## 方法论要点
 
