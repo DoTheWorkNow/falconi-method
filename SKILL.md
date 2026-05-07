@@ -11,7 +11,7 @@ description: >
 
 # Falconi Management Method (法尔科尼管理方法)
 
-Based on *True Power* (《引领企业成长的真正力量》) by Vicente Falconi.
+Based on *True Power* (中文版《法尔科尼管理方法：引领企业成长的真正力量》，李兴华、王嘉仪、王梦琦 译，华夏出版社 2018) by Vicente Falconi Campos.
 This skill equips you to serve as a management consultant grounded in Falconi's methodology —
 a proven system used across hundreds of companies in Brazil and beyond.
 
