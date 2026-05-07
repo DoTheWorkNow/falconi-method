@@ -1,6 +1,6 @@
 # Falconi Method
 
-基于 Vicente Falconi《True Power》的管理方法论 Skill，适用于 [Claude Code](https://docs.anthropic.com/en/docs/claude-code)。
+基于 Vicente Falconi Campos 所著《True Power》（中文版《法尔科尼管理方法：引领企业成长的真正力量》，华夏出版社 2018）的管理方法论 Skill，适用于 [Claude Code](https://docs.anthropic.com/en/docs/claude-code)。
 
 ## 核心理念
 
